@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jeng 👋
 
-<!--
-**loopfeng/loopfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Learner
+📚 Learning coding every day
+🚀 Goal: Become a developer
+🌱 Currently learning Python, Git, SQL
 
-Here are some ideas to get you started:
+## My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python Practice
+* Python 30 Days
+* Mini Projects
+
+## Connect with me
+
+GitHub: https://github.com/loopfeng
+
