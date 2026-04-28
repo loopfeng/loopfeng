@@ -2,7 +2,7 @@
 
 💻 Python Learner
 📚 Learning coding every day
-🚀 Goal: Become a developer
+🚀 Goal: Become a Software Engineer
 🌱 Currently learning Python, Git, SQL
 
 ## My Projects
